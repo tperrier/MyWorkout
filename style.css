@@ -1,0 +1,43 @@
+body {
+	color:white;
+	background-color:black;
+	text-align:center;
+}
+
+#display {
+	display:none;
+}
+
+#count-down {
+	font-size:300px;
+}
+
+#current {
+	position:relative;
+	top:-50px;
+}
+
+#current .name {
+	font-size:100px;
+}
+
+#current div div {
+	display:inline-block;
+	margin:20px;
+	font-size:25px;
+}
+
+#next {
+	position:relatvie;
+	top:-50px;
+}
+
+#next .name {
+	font-size:50px;
+}
+
+#next div div {
+	display:inline-block;
+	margin:20px;
+	font-size:15px;
+}
